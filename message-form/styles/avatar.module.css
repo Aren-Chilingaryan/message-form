@@ -1,0 +1,28 @@
+.uploadFormContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.uploadedImage{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.imageContainer{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 1px solid black; 
+}
+
+
+.editButtons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}

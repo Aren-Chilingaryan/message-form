@@ -1,0 +1,12 @@
+.container{
+    width:800px;
+    border: 1px solid black;
+    height: 600px;
+    overflow: auto;
+}
+
+.formContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
